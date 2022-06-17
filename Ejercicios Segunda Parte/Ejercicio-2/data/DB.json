@@ -1,0 +1,50 @@
+[
+  {
+    "id": "597ccd9b-0b38-4815-b892-ba9c02a0fb45",
+    "nombres": "Oliver",
+    "apellidos": "Pereira",
+    "ci": "77910236",
+    "direccion": "Av. Los Molles",
+    "sexo": "Masculino"
+  },
+  {
+    "id": "4703ef43-ef8e-411d-820e-a28ada7540aa",
+    "nombres": "Franco",
+    "apellidos": "Zenteno",
+    "ci": "123321456",
+    "direccion": "Av. Chilimarca",
+    "sexo": "Masculino"
+  },
+  {
+    "id": "1040589c-9bb2-4309-a1e8-badc1172fe10",
+    "nombres": "Maria",
+    "apellidos": "Perez",
+    "ci": "123321456",
+    "direccion": "Av. Blanco Galindo",
+    "sexo": "Femenino"
+  },
+  {
+    "id": "afbe72e2-0dea-46db-83b6-f11f245d98ac",
+    "nombres": "Daniela",
+    "apellidos": "Orias",
+    "ci": "456123789",
+    "direccion": "Av. Santa Cruz",
+    "sexo": "Femenino"
+  },
+  {
+    "id": "42bf05cc-a8b2-4ac7-9a11-67307a541d43",
+    "nombres": "Alexander",
+    "apellidos": "Cadiz",
+    "ci": "789456352",
+    "direccion": "Av. Vanezuela",
+    "sexo": "Masculino"
+  },
+  {
+    "id": "47378b7f-e2ee-4f81-b675-a54b3ea428a6",
+    "nombres": "Remberto",
+    "apellidos": "Peña",
+    "ci": "12300000",
+    "direccion": "Av. Manita",
+    "sexo": "Masculino"
+  }
+]
